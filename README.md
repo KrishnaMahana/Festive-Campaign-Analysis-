@@ -34,16 +34,19 @@ Overall, the analysis provides valuable insights into the performance of promoti
 
 
 # Additional Insights
-#Store Performance Analysis
+
+# Store Performance Analysis
 Top 10 Stores by Incremental Revenue (IR): Identify the top-performing stores in terms of incremental revenue generated from promotions.
 Bottom 10 Stores by Incremental Sold Units (ISU): Identify the stores with the lowest performance in terms of incremental sold units during the promotional period.
 City-wise Store Performance: Analyze how store performance varies by city and identify any common characteristics among top-performing stores.
-#Promotion Type Analysis
+
+# Promotion Type Analysis
 Top 2 Promotion Types by Incremental Revenue: Determine the top-performing promotion types that resulted in the highest incremental revenue.
 Bottom 2 Promotion Types by Incremental Sold Units: Identify the least effective promotion types in terms of their impact on incremental sold units.
 Comparison of Promotion Types: Analyze the performance differences between discount-based promotions, BOGOF (Buy One Get One Free), and cashback promotions.
 Optimal Promotion Type: Determine which promotions strike the best balance between incremental sold units and maintaining healthy margins.
-#Product and Category Analysis
+
+# Product and Category Analysis
 High-Lifting Product Categories: Identify product categories that saw significant increases in sales from the promotions.
 Product Responsiveness to Promotions: Analyze specific products that respond exceptionally well or poorly to promotions.
 Correlation between Product Category and Promotion Type Effectiveness: Investigate the relationship between product categories and the effectiveness of different promotion types.
